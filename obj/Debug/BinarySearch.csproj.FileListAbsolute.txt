@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+D:\SimpliLearn Course\Assisted Project\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
